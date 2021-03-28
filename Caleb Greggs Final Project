@@ -1,0 +1,116 @@
+<task>
+<title> Final Project </title>
+
+<shortdesc>This guide shows the user how to submit an assingment on Moodle.</shortdesc>
+
+<taskbody>
+
+<step>
+<cmd>Proceed to wolfware.ncsu.edu to log in and hit the Log in box above the red arrow</cmd>
+ <info>
+                    <image href="one.png" placement="break"/>
+                </info>
+</step>
+
+<step>
+<cmd>Enter your Unity ID Login information.</cmd>
+ <info>
+                    <image href="two.png" placement="break"/>
+                </info>
+</step>
+
+<context> 
+Unity ID is a student email up until the @ and the password is the same as your email password.
+</context>
+
+<step>
+<cmd>Choose a class and click on the Moodle logo, highlighted with the red box.</cmd>
+ <info>
+                    <image href="three.png" placement="break"/>
+                </info>
+</step>
+
+<step>
+<cmd>Scroll down to Assignments on the left-hand side of the screen and click on Assignments in the red box.</cmd> 
+ <info>
+                    <image href="four.png" placement="break"/>
+                </info>
+</step>
+
+<substeps>
+                    <substep>
+<step>
+<cmd>Choose and Assignment and click on a red link to submit it.</cmd> 
+ <info>
+                    <image href="five.png" placement="break"/>
+                </info>
+</substep>
+                </substeps> 
+              </step>
+
+<info>
+<note type="note">Note that some Assignments will say that the due date is off by a year or be completely off.</note> 
+<image href="cupboards.png" placement="break"/>
+</info>
+
+<step>
+<cmd>Please submit the assignment by the instructed due date the professor gave and ignore this overdue message.<cmd>
+</step>
+
+<step>
+<cmd>Click "add submission"</cmd>
+ <info>
+                    <image href="six.png" placement="break"/>
+                </info>
+</step>
+
+<step>
+<choices>
+<choice>  Either fill in the box next to Online text for your submission  </choice>
+<choice>  or add a file submission. </choice>
+ </choices>
+  <info>
+                    <image href="seven.png" placement="break"/>
+                </info>
+</step>
+
+<step>
+<cmd>To submit a file, click the first image to the right of the red arrow.</cmd>
+</step>
+
+<info>
+<note type="note"> Note the maximum file size and chose appropriately.</note>
+</info>
+
+<step>
+<cmd>Click "Choose File" and select a document.</cmd>
+</step>
+
+<step>
+<cmd>Click "Upload this file" and choose a file.</cmd>
+ <info>
+                    <image href="eight.png" placement="break"/>
+                </info>
+</step>
+
+<step>
+<cmd>Click "Save changes".</cmd>
+ <info>
+                    <image href="nine.png" placement="break"/>
+                </info>
+</step>
+
+<result>
+Your screen will look like this with a submitted assignment:
+ <info>
+                    <image href="ten.png" placement="break"/>
+                </info>
+</result>
+
+<info>
+<note type="note">Note You can choose to edit or remove your submission up until the due date and time. </note>
+</info>
+
+</taskbody>
+
+</task>
